@@ -1,0 +1,3 @@
+[submodule "curso-k6-basico"]
+	path = curso-k6-basico
+	url = https://github.com/weareqacademy/curso-k6-basico.git
